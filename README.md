@@ -1,4 +1,4 @@
 D3DMenu
 =======
 
-D3D Menu Base Code
+Contains the basis for creating a D3D Menu.
